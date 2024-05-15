@@ -29,7 +29,7 @@ GO TO [RELOAD.PY]() THEN CHANGE MY ID NUMBER
 
 <p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FIXXTEAM&show_icons=true&locale=en&layout=compact" alt="FIXXTEAM" /></p>
 
-[![Contributors](https://contrib.rocks/image?repo=Vashu2456/FIXXMUSICV)](https://github.com/Vashu2456/FIXXMUSICV/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=Vashu2456/FIXXMUSICV)]
 
 ### Contact :
 <a href="/https://t.me/Vashu2345"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
